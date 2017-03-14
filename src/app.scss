@@ -1,0 +1,30 @@
+/* Your styling here */
+h1 {
+    background-color: #ff1d8e;
+    color: yellow;
+    overflow: hidden;
+    border-radius: 40px;
+    margin: 0 auto;
+    text-align:center;
+}
+div {
+    background-color: #ff1d8e;
+    color: yellow;
+    border-top: 0px solid #fff;
+    border-bottom: 0px solid #fff;
+    padding: 10px 50px 10px 50px;
+    width: 1000px;
+    min-height: 50px;
+    overflow: hidden;
+    border-radius: 40px;
+    margin: 0 auto;
+    text-align:center;
+}
+input[type=text] {
+    width: 75%;
+    padding: 10px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+p {text-align: right }
